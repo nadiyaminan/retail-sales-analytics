@@ -48,3 +48,9 @@ retail-sales-analytics/
 ## Author
 Nadiya Minan — B.Tech AI & Data Science graduate | Data Analyst
 linkedin.com/in/nadiyaminan | minannadiya@gmail.com
+## Future Enhancements
+
+- Build an interactive Power BI dashboard.
+- Create an Excel dashboard with Pivot Tables and slicers.
+- Add advanced sales forecasting using time-series analysis.
+- Deploy the analysis as an interactive web application.
