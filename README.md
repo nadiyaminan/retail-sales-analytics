@@ -46,9 +46,14 @@ retail-sales-analytics/
 4. Open `notebooks/02_sql_analysis.ipynb` to explore the SQL queries
 
 ## Author
-Nadiya Minan — B.Tech AI & Data Science graduate 
+
+**Nadiya Minan**
+
+B.Tech Artificial Intelligence & Data Science Graduate
+
+GitHub: https://github.com/nadiyaminan
+
 LinkedIn: https://linkedin.com/in/nadiyaminan
-minannadiya@gmail.com
 ## Future Enhancements
 
 - Build an interactive Power BI dashboard.
